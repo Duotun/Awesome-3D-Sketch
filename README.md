@@ -29,7 +29,6 @@ A collection of papers about 3D Sketch Creation and Modification. We also care a
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
-| [Image Generation from Sketch Constraint Using Contextual GAN](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yongyi_Lu_Image_Generation_from_ECCV_2018_paper.pdf) | ECCV 2018 | [[code]](https://github.com/elliottwu/sText2Image) [[project]](https://elliottwu.com/projects/sketch/) |
 | ⭐ [3Doodle: Compact Abstraction of Objects with 3D Strokes](https://changwoonchoi.github.io/3Doodle/) | SIGGRAPH 2024 | [[code]](https://github.com/changwoonchoi/3Doodle) |
 | [Diff3DS: Generating View-Consistent 3D Sketch via Differentiable Curve Rendering](https://arxiv.org/abs/2405.15305) | ICLR 2025 | [[project]](https://yiboz2001.github.io/Diff3DS/) | 
 | [Empowering Vector Graphics with Consistently Arbitrary Viewing and View-dependent Visibility](https://cvpr.thecvf.com/virtual/2025/poster/32611) | CVPR 2025 | [[code]](https://github.com/chenxinl/Dream3DVG) |
@@ -55,6 +54,7 @@ A collection of papers about 3D Sketch Creation and Modification. We also care a
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
+| [Image Generation from Sketch Constraint Using Contextual GAN](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yongyi_Lu_Image_Generation_from_ECCV_2018_paper.pdf) | ECCV 2018 | [[code]](https://github.com/elliottwu/sText2Image) [[project]](https://elliottwu.com/projects/sketch/) |
 | [It’s All About Your Sketch: Democratising Sketch Control in Diffusion Models](https://arxiv.org/pdf/2403.07234) | CVPR 2024 | [[project]](https://subhadeepkoley.github.io/StableSketching/) |
 | ⭐ [TripoSG: High-Fidelity 3D Shape Synthesis using Large-Scale Rectified Flow Models](https://arxiv.org/abs/2502.06608) | arXiv 2025 | [[code]](https://github.com/VAST-AI-Research/TripoSG) |
 
