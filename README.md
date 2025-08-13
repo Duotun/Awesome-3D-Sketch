@@ -24,6 +24,7 @@ A collection of papers about 3D Sketch Creation and Modification. We also care a
 ## Other Awesome Sketch Research Collections
 - [Awesome Sketch-Based Applications](https://github.com/MarkMoHR/Awesome-Sketch-Based-Applications)
 - [Awesome Sketch Synthesis](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis)
+- [Free-form Shape Modeling in XR: A Systematic Review](https://arxiv.org/abs/2401.00924)
 
 ## 3D Sketch Creations with Differentiable Rendering (✔)
 
@@ -74,6 +75,7 @@ A collection of papers about 3D Sketch Creation and Modification. We also care a
 | [HandPainter - 3D Sketching in VR with Hand-based Physical Proxy](https://dl.acm.org/doi/abs/10.1145/3411764.3445302) | CHI 2021 | [[video]](https://youtu.be/x5VAU-471P8) |
 | [GestureSurface: VR Sketching through Assembling Scaffold Surface with Non-Dominant Hand](https://ieeexplore.ieee.org/abstract/document/10049645) | TVCG 2023 |  |
 |  [VRCreatIn: Taking In-Situ Pen and Tablet Interaction Beyond Ideation to 3D Modeling Lighting and Texturing](https://dl.acm.org/doi/full/10.1145/3701571.3701580) | MUM 2024 | |
+| [FMASketch: Freehand Mid-Air Sketching in AR](https://www.tandfonline.com/doi/full/10.1080/10447318.2023.2223948?casa_token=HveA3vrihOIAAAAA%3AFBEarOnScuyuX-siiWgY1xkanufrArCicovtwu_YNAuDu1LlRDPBPdaPLTYCKidM9cUVGjdENEa9yQbqiA) | IJHCI 2025
 
 
 ## 3D Sketch Creation Tools (?)
