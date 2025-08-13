@@ -1,8 +1,5 @@
 ## Awesome-3D-Sketch
 
-
-A private collections of 3D Sketch Related Papers
-
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of papers about 3D Sketch Creation and Modification. We also care about how to use either 2D or 3D sketch to support 2D/3D Generation.
