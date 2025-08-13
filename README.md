@@ -23,6 +23,7 @@ A collection of papers about 3D Sketch Creation and Modification. We also care a
 - [Awesome Sketch Synthesis](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis)
 - [Free-form Shape Modeling in XR: A Systematic Review](https://arxiv.org/abs/2401.00924)
 
+
 ## 3D Sketch Creations with Differentiable Rendering (✔)
 
 | Paper | Source | Code/Project Link  |
@@ -32,7 +33,6 @@ A collection of papers about 3D Sketch Creation and Modification. We also care a
 | [Empowering Vector Graphics with Consistently Arbitrary Viewing and View-dependent Visibility](https://cvpr.thecvf.com/virtual/2025/poster/32611) | CVPR 2025 | [[code]](https://github.com/chenxinl/Dream3DVG) |
 | [ViewCraft3D: High-Fidelity and View-Consistent 3D Vector Graphics Synthesis](https://arxiv.org/abs/2505.19492) | arXiv 2025 | [[project]](https://homepage.marvolo.top/VC3D_page/) | 
 | [WIR3D: Visually-Informed and Geometry-Aware 3D Shape Abstraction](https://arxiv.org/abs/2505.04813) | ICCV 2025 | [[code]](https://github.com/threedle/wir3d)
-
 
 
 ## 3D Sketch for Shape Creations (?)
